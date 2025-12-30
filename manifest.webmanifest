@@ -1,0 +1,13 @@
+{
+  "name": "TicketDive",
+  "short_name": "TicketDive",
+  "start_url": "./index.html?from=a2hs",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1f1f1f",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "128x128", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "128x128", "type": "image/png" }
+  ]
+}
